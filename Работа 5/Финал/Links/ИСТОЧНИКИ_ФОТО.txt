@@ -1,0 +1,14 @@
+Фото взяты с Wikimedia Commons (свободные лицензии, автор указан в подписях брошюры).
+Кадрированы и переведены в CMYK, TIFF, 300 dpi.
+
+p2_platesetter.tif  Kodak Magnus 800 Platesetter — Frédéric Bisson, CC BY 2.0
+                    https://commons.wikimedia.org/w/index.php?curid=37676798
+p2_photosetter.tif  Intertype Photosetter — Fox Wu, CC BY 2.0
+                    https://commons.wikimedia.org/w/index.php?curid=58405813
+p5_laser.tif        Ineo+ 650 — Develop GmbH, CC BY-SA 3.0
+                    https://commons.wikimedia.org/w/index.php?curid=5193537
+p5_printhead.tif    Laser print head — flip619, CC BY-SA 3.0
+                    https://commons.wikimedia.org/wiki/File:Laser_print_head.jpg
+p6_wideformat.tif   Canon imagePROGRAF TX-5310 — Dinkun Chen, CC BY-SA 4.0
+                    https://commons.wikimedia.org/w/index.php?curid=129034767
+cover_halftone.tif  обложка: растровая графика (цветоделённый растр CMYK), создана для этой работы

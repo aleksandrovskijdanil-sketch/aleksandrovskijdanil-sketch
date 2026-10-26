@@ -1,0 +1,4 @@
+Сюда InDesign кладёт шрифты при упаковке (Файл → Упаковать → «Копировать шрифты»).
+Шрифты макета: Bahnschrift (заголовки; входит в Windows 10/11: C:\Windows\Fonts\bahnschrift.ttf)
+и Minion Pro (основной текст; Adobe Fonts / Creative Cloud).
+Лицензионные шрифты в архив не вложены.
